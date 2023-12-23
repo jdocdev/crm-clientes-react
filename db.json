@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "telefono": "3123456789",
+      "email": "juan.perez@telefonica.com",
+      "empresa": "Telefónica"
+    },
+    {
+      "id": 2,
+      "nombre": "María García",
+      "telefono": "3214567890",
+      "email": "maria.garcia@santander.com",
+      "empresa": "Banco Santander"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro López",
+      "telefono": "3315678901",
+      "email": "pedro.lopez@zara.com",
+      "empresa": "Inditex"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana Rodríguez",
+      "telefono": "3416789012",
+      "email": "ana.rodriguez@bbva.com",
+      "empresa": "BBVA"
+    },
+    {
+      "id": 5,
+      "nombre": "Luis Fernández",
+      "telefono": "3517890123",
+      "email": "luis.fernandez@iberdrola.com",
+      "empresa": "Iberdrola"
+    },
+    {
+      "id": 6,
+      "nombre": "Cristina Gómez",
+      "telefono": "3618901234",
+      "email": "cristina.gomez@nestlé.com",
+      "empresa": "Nestlé"
+    },
+    {
+      "id": 7,
+      "nombre": "José Sánchez",
+      "telefono": "3719012345",
+      "email": "jose.sanchez@grupovodafone.com",
+      "empresa": "Grupo Vodafone"
+    },
+    {
+      "id": 8,
+      "nombre": "Daniela Hernández",
+      "telefono": "3810123456",
+      "email": "daniela.hernandez@microsoft.com",
+      "empresa": "Microsoft"
+    },
+    {
+      "id": 9,
+      "nombre": "Carlos Rodríguez",
+      "telefono": "3911123457",
+      "email": "carlos.rodriguez@amazon.com",
+      "empresa": "Amazon"
+    },
+    {
+      "id": 10,
+      "nombre": "Sofía Gómez",
+      "telefono": "3012123458",
+      "email": "sofia.gomez@google.com",
+      "empresa": "Google"
+    }
+  ]
+}
